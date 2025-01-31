@@ -8,18 +8,21 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Early-Stage Blood Clot Detection using AI & ML**  
+- 🔭 Currently working on **WRITE2DIGIT AI, a ocr tech that will convert handwriting to computerized characters**  
 - 🌱 Learning **Django, React, and Node.js**  
 - 💬 Ask me about **PHP, Python, and Backend Development**  
-- 📫 Reach me at **sanskardebnath2019@gmail.com**  
+- 📫 Reach me at **sanskardn7@gmail.com**  
 - ⚡ Fun fact: *I think I can't do it, but I always prove myself wrong!*  
 
 ---
 
 ### 📌 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/sanskar-debnath" target="_blank">
+  <a href="https://www.linkedin.com/in/sanskar-debnath-896147349/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sanskardebnath2017/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="FB" height="30" width="40" />
   </a>
 </p>
 

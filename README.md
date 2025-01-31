@@ -71,4 +71,16 @@
 ---
 
 ### 📊 More GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryavir01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryavir01&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryavir01&" alt="GitHub Streak" />
+</p>
+
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryavir01&theme=github_dark" alt="Repos per Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryavir01&theme=github_dark" alt="Most Commit Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryavir01&theme=github_dark&utcOffset=5.5" alt="Most Productive Time" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aryavir01&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryavir01&theme=github_dark" alt="Profile Details" /> </p>

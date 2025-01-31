@@ -7,74 +7,79 @@
 
 ---
 
-### 📨 Get Connected:
-<p align="center">
-  <a href="https://instagram.com/_rahul_karmakar__">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32">
-  </a>
-  <a href="https://x.com/karmakar_rahul_">
-    <img src="https://cdn.simpleicons.org/x/000000" height="32">
-  </a>
-  <a href="mailto:rahulkarmakar.cse.2025.tcea@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32">
-  </a>
-  <a href="https://www.facebook.com/rahulkarmakar1349/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32">
-  </a>
-  <a href="https://github.com/rahulkarmakar2023cse">
-    <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" height="32">
-  </a>
-  <a href="https://t.me/rahulkarmakar1349">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="32">
-  </a>
-</p>
+### 🚀 About Me  
+- 🔭 Currently working on **WRITE2DIGIT AI, a ocr tech that will convert handwriting to computerized characters**  
+- 🌱 Learning **Django, React, and Node.js**  
+- 💬 Ask me about **PHP, Python, and Backend Development**  
+- 📫 Reach me at **sanskardn7@gmail.com**  
+- ⚡ Fun fact: *I think I can't do it, but I always prove myself wrong!*  
 
 ---
 
-### 🧰 Languages and Tools
-
+### 📌 Connect with Me  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode" width="40px">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://rahulkarmakar.vercel.app/api?username=aryavir01&hide=stars,prs&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://rahulkarmakar.vercel.app/api/top-langs/?username=aryavir01&hide_progress=true&theme=dark" alt="Top Languages">
-</p>
-
----
-
-<details>
-  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  
-I began my coding journey as an eager computer science student, driven by a curiosity to explore everything the programming world had to offer—languages, Unix, Linux, and theory. My initial goal was to teach myself every language, only to realize that mastering everything was unrealistic. This led to unfocused progress, and I found myself overwhelmed by the vastness of the field.
-
-Now, I’m taking a more structured approach. I’m unlearning past mistakes and restarting with clearer goals and discipline. By documenting my progress on GitHub, I aim to reflect on my journey, learn from my errors, and grow steadily along the way.
-
-</details>
-
----
-
-### 📂 Featured Project
-
-<p align="center">
-  <a href="https://github.com/aryavir01/FoodFinder">
-    <img src="https://rahulkarmakar.vercel.app/api/pin?username=aryavir01&repo=FoodFinder&theme=dark" alt="FoodFinder Repository">
+  <a href="https://www.linkedin.com/in/sanskar-debnath-896147349/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sanskardebnath2017/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="FB" height="30" width="40" />
   </a>
 </p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">  
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>  
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>  
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>  
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>  
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>  
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>  
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>  
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  </a>  
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>  
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryavir01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryavir01&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryavir01&" alt="GitHub Streak" />
+</p>
+
